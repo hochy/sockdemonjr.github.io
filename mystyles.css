@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+body {
+background-color: ##fcfdff;
+font: 80% Verdana, Arial, sans-serif;
+padding: 10px 20px;
+}
+
+h1 { 
+color: #AA5588
+text align: center;
+font-family: Georgia, Cambria, serif;
+}
+
+table {
+border: 1px solid #000000;
+border-collapse: collapse;
+width: 350px;
+}
+
+th {
+border: 1px solid ##9b34eb;
+background-color: #9b34eb;
+color: white;
+font-weight: bold;
+}
+
+td {
+border: 1px solid #9b34eb;
+padding: 5px;
+}
